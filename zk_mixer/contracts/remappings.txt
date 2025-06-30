@@ -1,0 +1,8 @@
+ds-test/=lib/poseidon2-evm/lib/huffmate/lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+foundry-huff/=lib/poseidon2-evm/lib/foundry-huff/src/
+huffmate/=lib/poseidon2-evm/lib/huffmate/src/
+poseidon2-evm/=lib/poseidon2-evm/src/
+solidity-stringutils/=lib/poseidon2-evm/lib/foundry-huff/lib/solidity-stringutils/
+solmate/=lib/poseidon2-evm/lib/huffmate/lib/solmate/src/
+stringutils/=lib/poseidon2-evm/lib/foundry-huff/lib/solidity-stringutils/

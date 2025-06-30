@@ -7,3 +7,9 @@
 [submodule "zk_panagram/contracts/lib/openzeppelin-contracts"]
 	path = zk_panagram/contracts/lib/openzeppelin-contracts
 	url = https://github.com/Openzeppelin/openzeppelin-contracts
+[submodule "zk_mixer/contracts/lib/forge-std"]
+	path = zk_mixer/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "zk_mixer/contracts/lib/poseidon2-evm"]
+	path = zk_mixer/contracts/lib/poseidon2-evm
+	url = https://github.com/zemse/poseidon2-evm
